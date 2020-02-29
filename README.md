@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to TrashPandaSec Labs 
 
-You can use the [editor on GitHub](https://github.com/trashpandasec/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+this site is currently extremely experimental and hosted out of https://github.com/trashpandasec/blog/edit/master/README.md while I learn to use GH pages and Jekyll and Ruby for that matter...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+leaving the markdown notes in case I want to browse them later: 
 
 ### Markdown
 
