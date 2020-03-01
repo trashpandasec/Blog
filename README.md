@@ -1,9 +1,20 @@
-## Welcome to TrashPandaSec Labs 
+## Welcome to TrashPandaSec Labs
 
-this site is currently extremely experimental and hosted out of https://github.com/trashpandasec/blog/edit/master/README.md while I learn to use GH pages and Jekyll and Ruby for that matter...
+this site is currently extremely experimental and hosted out of https://github.com/trashpandasec/blog/edit/master/README.md while I learn to use GH pages/ Jekyll and Ruby for that matter...
+
+Stickers, I make them for the lolz:
+https://www.redbubble.com/people/TrashPandaSec/
+
+![Dumpsterdive](/images/dumpsterdive.jpg)
 
 
-leaving the markdown notes in case I want to browse them later: 
+
+
+
+
+
+
+leaving the markdown notes in case I want to browse them later:
 
 ### Markdown
 
