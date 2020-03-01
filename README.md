@@ -5,7 +5,7 @@ this site is currently extremely experimental and hosted out of https://github.c
 Stickers, I make them for the lolz:
 https://www.redbubble.com/people/TrashPandaSec/
 
-![](/images/dumpsterdive.jpg)
+![Dumpster Dive](/Images/dumpsterdive.jpg)
 
 
 
