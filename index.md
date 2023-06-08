@@ -4,10 +4,10 @@ this site is currently extremely experimental and hosted out of https://github.c
  
 I make stickers for the lolz and to help support a hackerspace/meetup in philly. 
 This is the link to the meetup: 
-https://www.meetup.com/hackersassembly/ 
+<https://www.meetup.com/hackersassembly/>
 
 100% of the profits from swag sales goes to payin for meetup pages, rent, and supplies. You can check out the store here: 
-https://www.redbubble.com/people/TrashPandaSec/
+<https://www.redbubble.com/people/TrashPandaSec/>
 
 Don't forget when in doubt... 
 ![Dumpster Dive](/Images/dumpsterdive.jpg)
